@@ -1,7 +1,8 @@
-<img src="https://skillicons.dev/icons?i=go" title="Go"/> 
+<h1 align="center">Go programming</h1>
+
 
 ## About
-This repository contains implementations of fundamental Go concepts, including goroutines, channels, and Remote Procedure Calls (RPC). The project is inspired by the **Distributed Systems** course from the 3rd year of **B.Tech CSE** at **Amrita Vishwa Vidyapeetham, Coimbatore**, taught by **Dr. Shanmuga Priya S**.
+This repository contains implementations of fundamental Go concepts, including goroutines, channels, and Remote Procedure Calls (RPC). 
 
 ## Topics Covered
 - **Go Basics**: Syntax, data types, control structures
@@ -33,8 +34,15 @@ This repository contains implementations of fundamental Go concepts, including g
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## License
-This project is licensed under the **MIT License**.
+## Code of Conduct
+Please read our [Code of Conduct](./CODE_OF_CONDUCT.md) before contributing to this project.
+
+## Security
+If you discover a vulnerability, please refer to our [Security Policy](./SECURITY.md) for instructions on how to report it responsibly.
+
+
+## License  
+This project is licensed under the [MIT License](LICENSE). 
 
 ## Author
 [**Aakaash M S**](https://github.com/msaakaash)
